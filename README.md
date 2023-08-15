@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Alisyed098
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Syed Junaid Ali
+- 🧔 I am a data scientist.
+- 🔭 I’m currently working on Machine Learning and Deep learning projects.
+- 💞️ I’m looking to collaborate on Machine learning projects
+- 📫 reach me on linkedin.com/in/syed-junaid-ali-8a07b9208, ali.syed168@gmail.com
+                     
 
 <!---
 Alisyed098/Alisyed098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
