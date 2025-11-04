@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syed Junaid Ali
-- 🧔 I am a data scientist.
-- 🔭 I’m currently working on Machine Learning and Deep learning projects.
+- 🧔 I am a data scientist | data engineer.
+- 🔭 I’m currently working on Machine Learning and Deep learning projects and building ELT/ETL pipelines using Apache Spark and schedule it in Apache Airflow.
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 reach me on linkedin.com/in/syed-junaid-ali-8a07b9208, ali.syed168@gmail.com
                      
